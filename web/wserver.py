@@ -226,7 +226,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        
+        <a href="https://telegram.dog/profesar_bot"><i class="far fa-user-circle"></i></a>
         <a href="https://telegram.dog/dvmoviesbackup"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
