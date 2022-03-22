@@ -754,7 +754,7 @@ def set_priority(hash_id):
 
 @app.route('/')
 def homepage():
-    return "<h1>Checkout Our Official <a href='https://t.me/+NOeQODLI8J44ODI1'>DV Movies Network</a> & Join & Share & Support To us</h1>"
+    return "<h1>Checkout Our Official <a href='https://telegram.dog/+NOeQODLI8J44ODI1'>DV Movies Network</a> & Join & Share & Support To us</h1>"
 
 @app.errorhandler(NotFound404Error)
 def page_not_found(e):
