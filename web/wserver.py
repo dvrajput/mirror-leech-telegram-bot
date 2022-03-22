@@ -226,8 +226,8 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://t.me/profesar_bot"><i class="far fa-user-circle"></i></a>
-        <a href="https://t.me/dvmoviesbackup"><i class="fab fa-telegram"></i></a>
+        
+        <a href="https://telegram.dog/dvmoviesbackup"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -619,7 +619,7 @@ section span{
       </div>
       <div class="social">
         
-        <a href="https://t.me/dvmoviesbackup"><i class="fab fa-telegram"></i></a>
+        <a href="https://telegram.dog/dvmoviesbackup"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
